@@ -1,0 +1,33 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670316578;s:6:"expire";i:1670320178;s:4:"tags";s:48:"e2c_BLOCK_HTML,e2c_CAT_P_1833,e2c_CAT_P,e2c_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:13:{s:44:"vFDWLJ0rI4iCP1vSemoOiDSJkTeGtiGgAfXGj3E1MqI=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"1z7XmlaeCI0pg4GJydRAWLNEUk/vyK8JRMOWP5yM4L4=";s:6:"sha256";s:44:"YBFiEJ7nBPhjnwPQs63KsEun9C05GNipix5VkHZ24l0=";s:6:"sha256";s:44:"cci27xVVx2vyHS2SgRfWMXplL58VztjfXk3CJMFY0YM=";s:6:"sha256";s:44:"ScdnYb0LahkV73Uq0D8QZL+BUyigPtjRT0y10QinuBg=";s:6:"sha256";s:44:"h75JlkEmVfM/tlZ/Lmo8mFo6wvfETsp7pc3e8Cya8vo=";s:6:"sha256";s:44:"hHHsmpogs1EQrZYPl7xOhN9J8h0WieV2RHfMieUucac=";s:6:"sha256";s:44:"pgS2zIPVgA0LT2ezuwFlAWfFmJaEAGe/HeizjdLtd08=";s:6:"sha256";s:44:"LiCLqJkDk57wgWqRM+BqOERPD1SE4wPA5DsNzBYiJ84=";s:6:"sha256";s:44:"Pu1aXO2RiQEjzQNvnrEowtvdVNhdEtLroWmHJsc9Fs8=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:4:{s:44:"OpV4IIRFK1WqhCp9TalY2BkUlv5eksZI4KGcAQRhmmI=";s:6:"sha256";s:44:"WAj+bJ6+x2D9ZWjfOQWiCpchOeG+ToC10/7ZhQ3WBss=";s:6:"sha256";s:44:"dWwDeaXTgZgdW0xH2K6vSeF1G+ty0nw9KrNrwG01WeQ=";s:6:"sha256";s:44:"iQNQxJIBhEvKLmxI4DqG0aOLibImc1GBtlMNXit6Wi8=";s:6:"sha256";}}}s:4:"html";s:4182:"                <div class="swatch-opt-1833"
+         data-role="swatch-option-1833"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1833]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"171","label":"28","products":["1827","1828","1829"]},{"id":"172","label":"29","products":["1830","1831","1832"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Black","products":["1827","1830"]},{"id":"50","label":"Blue","products":["1828","1831"]},{"id":"57","label":"Purple","products":["1829","1832"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1827":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}},"1828":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}},"1829":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}},"1830":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}},"1831":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}},"1832":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4}},"productId":"1833","chooseText":"Choose an Option...","images":[],"index":{"1827":{"144":"171","93":"49"},"1828":{"144":"171","93":"50"},"1829":{"144":"171","93":"57"},"1830":{"144":"172","93":"49"},"1831":{"144":"172","93":"50"},"1832":{"144":"172","93":"57"}},"channel":"website","salesChannelCode":"base","sku":{"1827":"WP03-28-Black","1828":"WP03-28-Blue","1829":"WP03-28-Purple","1830":"WP03-29-Black","1831":"WP03-29-Blue","1832":"WP03-29-Purple"}},
+                    "jsonSwatchConfig": {"144":{"171":{"type":"0","value":"28","label":"28"},"172":{"type":"0","value":"29","label":"29"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"49":{"type":"1","value":"#000000","label":"Black"},"50":{"type":"1","value":"#1857f7","label":"Blue"},"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002Fm3.magento.com\u002Findex.php\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1833]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":48},"oldPrice":{"amount":48},"basePrice":{"amount":38.4},"finalPrice":{"amount":38.4}}                    }
+                }
+            }
+        }
+    </script>
+";}

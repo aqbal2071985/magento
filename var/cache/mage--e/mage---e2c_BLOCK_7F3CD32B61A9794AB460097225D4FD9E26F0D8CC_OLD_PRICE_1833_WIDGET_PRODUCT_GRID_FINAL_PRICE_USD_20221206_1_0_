@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670316578;s:6:"expire";i:1670402978;s:4:"tags";s:48:"e2c_BLOCK_HTML,e2c_CAT_P_1833,e2c_CAT_P,e2c_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:13:{s:44:"vFDWLJ0rI4iCP1vSemoOiDSJkTeGtiGgAfXGj3E1MqI=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"1z7XmlaeCI0pg4GJydRAWLNEUk/vyK8JRMOWP5yM4L4=";s:6:"sha256";s:44:"YBFiEJ7nBPhjnwPQs63KsEun9C05GNipix5VkHZ24l0=";s:6:"sha256";s:44:"cci27xVVx2vyHS2SgRfWMXplL58VztjfXk3CJMFY0YM=";s:6:"sha256";s:44:"ScdnYb0LahkV73Uq0D8QZL+BUyigPtjRT0y10QinuBg=";s:6:"sha256";s:44:"h75JlkEmVfM/tlZ/Lmo8mFo6wvfETsp7pc3e8Cya8vo=";s:6:"sha256";s:44:"hHHsmpogs1EQrZYPl7xOhN9J8h0WieV2RHfMieUucac=";s:6:"sha256";s:44:"pgS2zIPVgA0LT2ezuwFlAWfFmJaEAGe/HeizjdLtd08=";s:6:"sha256";s:44:"LiCLqJkDk57wgWqRM+BqOERPD1SE4wPA5DsNzBYiJ84=";s:6:"sha256";s:44:"Pu1aXO2RiQEjzQNvnrEowtvdVNhdEtLroWmHJsc9Fs8=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:4:{s:44:"OpV4IIRFK1WqhCp9TalY2BkUlv5eksZI4KGcAQRhmmI=";s:6:"sha256";s:44:"WAj+bJ6+x2D9ZWjfOQWiCpchOeG+ToC10/7ZhQ3WBss=";s:6:"sha256";s:44:"dWwDeaXTgZgdW0xH2K6vSeF1G+ty0nw9KrNrwG01WeQ=";s:6:"sha256";s:44:"iQNQxJIBhEvKLmxI4DqG0aOLibImc1GBtlMNXit6Wi8=";s:6:"sha256";}}}s:4:"html";s:958:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1833" data-price-box="product-id-1833"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1833-widget-product-grid"                data-price-amount="38.4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$38.40</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-1833-widget-product-grid"                data-price-amount="48"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$48.00</span></span>
+        </span>
+    </span>
+
+</div>";}

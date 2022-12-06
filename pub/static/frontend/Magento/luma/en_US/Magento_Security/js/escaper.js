@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/vendor/magento/module-security/view/base/web/js/escaper.js

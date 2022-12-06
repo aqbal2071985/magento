@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/lib/web/mage/gallery/gallery.js

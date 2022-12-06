@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/vendor/magento/module-swatches/view/frontend/web/js/catalog-add-to-cart.js

@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670316986;s:6:"expire";i:1670403386;s:4:"tags";s:48:"e2c_BLOCK_HTML,e2c_CAT_P_1861,e2c_CAT_P,e2c_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:12:{s:44:"vFDWLJ0rI4iCP1vSemoOiDSJkTeGtiGgAfXGj3E1MqI=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"dNtaLf5du16OYEek0LqLi+VXqr0lVz0DTewVo8704cA=";s:6:"sha256";s:44:"fFiEQOripybi8R4RhN5kve1pXEAI2fDcSlczxjI45t8=";s:6:"sha256";s:44:"72PNUva0P/oKpBXed2fZT9sNqS61mkjaanF4B9/M1Mc=";s:6:"sha256";s:44:"haHjRLoVvfRN4ZcfmhqMUNz5TNa7WFJ9qUP/o6hz9tQ=";s:6:"sha256";s:44:"poGilrDaCrOdqzoPsjt5Ho8T0ZyQF/qGc4q/1w4fUSU=";s:6:"sha256";s:44:"gpptdmFoqGOmjKT/stybWAs6uacMQw8t+UmxlaxS3N0=";s:6:"sha256";s:44:"v7AVQqrrg5oFwEMZh+yJYzBAVxfYlrBfWmkexryZVrc=";s:6:"sha256";s:44:"th4dBw0Ui4OBsAajpGTByQvVcdk1bytPhFHNdbtPnX8=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:1:{s:44:"aorg30sfx2oc0mPt/XwqDuBj9LexBW2xNXtAJl4ntEs=";s:6:"sha256";}}}s:4:"html";s:922:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1861" data-price-box="product-id-1861"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-1861"                data-price-amount="38.4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$38.40</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-1861"                data-price-amount="48"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$48.00</span></span>
+        </span>
+    </span>
+
+</div>";}

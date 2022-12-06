@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670317381;s:6:"expire";i:1670403781;s:4:"tags";s:45:"e2c_BLOCK_HTML,e2c_CAT_P_6,e2c_CAT_P,e2c_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:18:{s:44:"vFDWLJ0rI4iCP1vSemoOiDSJkTeGtiGgAfXGj3E1MqI=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"NrBZSbQtuqlcLYJYgPRmZW/52wX7kyQ+FqiVOKfBEFM=";s:6:"sha256";s:44:"poGilrDaCrOdqzoPsjt5Ho8T0ZyQF/qGc4q/1w4fUSU=";s:6:"sha256";s:44:"rOobNDFVNkwQY8+sFYsm3W2SPbfmvHeiF2VFSBhKq+U=";s:6:"sha256";s:44:"pOSpMfBT9jarla1R8RxckKywEXrtbG0XjvVfdb4Wa/s=";s:6:"sha256";s:44:"9EKF4ZrAlghariRsop2hYfWdjAFYFbK4xYOPMV5Gnhw=";s:6:"sha256";s:44:"M6/GgI9ROkZ6hmz9b4GyVfvjeTbu/v9Dbog8vUzLmgY=";s:6:"sha256";s:44:"+Vlc0fgh7elaePoleU8saJH72cD6DjSbpG4ClAx//RU=";s:6:"sha256";s:44:"DXz+Zbukkw7MYTIGgwCkDz5nZscGa98MQs5IN2HgiKU=";s:6:"sha256";s:44:"9/gkmgJioT457Q9zUU64nmo3hc2DdK/9ikIDUUw+lyE=";s:6:"sha256";s:44:"AxwYTIP/1ED/AZEZcqDDNlv0OePnIV67i74qovMU6rI=";s:6:"sha256";s:44:"DmIZEUxj9FTtEY3GsZ3jZXKidx9BS3oYNzANprNxLIc=";s:6:"sha256";s:44:"nEtKY/eTtLEcGgaXa+MCDSbI/l0MpMrogyotHe678zg=";s:6:"sha256";s:44:"7sycDGwlf2K2irvYfAl8KpxJvfRIVL+I9NWN2yBGaDo=";s:6:"sha256";s:44:"GnWHK/bUFLoFvvYYBLOHBSTMxYn3b+qWyF2Hgc8sd4I=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:6:{s:44:"OFR0Ce3Ib5wHHajVDQTP8eM43sCl5QJSRrz8zJ/s1Qo=";s:6:"sha256";s:44:"wBaB7x+eov/YsHxLKyqAGu9NLVPqtwX9KUpq/afKDMs=";s:6:"sha256";s:44:"o+hSboH0UV2GteHSWUI50Q6X/8EemRVRZbNR1T3qGiU=";s:6:"sha256";s:44:"FUuTitA6aj2c23IY6D5vzzP4QmHJCEeJpmSiR9up09w=";s:6:"sha256";s:44:"su+4CO1RRte/4+D3PQLpRfB+IMnFtRowWQRQanwF5iM=";s:6:"sha256";s:44:"PB8zgWhZSmw/BLR3d4fVXPIlWzS+yCxDQtutebLHxYY=";s:6:"sha256";}}}s:4:"html";s:407:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-6"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+
+</div>";}

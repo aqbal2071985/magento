@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+* DCKAP_Tax - Version 1.0.1
+* Copyright © 2016 DCKAP. All rights reserved.
+* Author : Thangadurai
+*/
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<body>
+    <referenceBlock name="adminhtml.catalog.product.set.grid.columnSet">
+        <block class="Magento\Backend\Block\Widget\Grid\Column" ifconfig="taxbycity/general/enable" name="adminhtml.catalog.product.set.grid.column.tax_city" as="tax_city" after="adminhtml.catalog.product.set.grid.column.region_name">
+                    <arguments>
+                        <argument name="header" xsi:type="string" translate="true">City</argument>
+                        <argument name="index" xsi:type="string">tax_city</argument>
+                        <argument name="default" xsi:type="string">*</argument>
+                    </arguments>
+        </block>          
+    </referenceBlock>
+</body>
+</page>

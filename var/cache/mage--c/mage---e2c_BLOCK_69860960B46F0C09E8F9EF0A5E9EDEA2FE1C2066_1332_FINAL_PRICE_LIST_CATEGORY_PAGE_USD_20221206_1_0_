@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1670316963;s:6:"expire";i:1670403363;s:4:"tags";s:48:"e2c_BLOCK_HTML,e2c_CAT_P_1332,e2c_CAT_P,e2c_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:22:{s:44:"vFDWLJ0rI4iCP1vSemoOiDSJkTeGtiGgAfXGj3E1MqI=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"fFiEQOripybi8R4RhN5kve1pXEAI2fDcSlczxjI45t8=";s:6:"sha256";s:44:"poGilrDaCrOdqzoPsjt5Ho8T0ZyQF/qGc4q/1w4fUSU=";s:6:"sha256";s:44:"b83kiEntMUrhBNMSJ5tWKpYURIRdo+HdX6+//CUM1vg=";s:6:"sha256";s:44:"2uGosgQKts60ZgsAW7k/ruWqkrHIoLr2KoTV0ZF49JU=";s:6:"sha256";s:44:"+r0J9O5Z5FbSlaYv4ReOGMpuRYXzwCoXuRO26g7f03Q=";s:6:"sha256";s:44:"cPUFJeSkDFkRpNjyztyx/mCzT82HNoDbYvh8aaaKZDU=";s:6:"sha256";s:44:"/brwGIZ8mO3ctBP9lLXpRsWlFR7+8XfvrkCAKIbIp/g=";s:6:"sha256";s:44:"tzzGbhxjTtaywszNBecNPSLV/p5CvIerdDhvm6gWoIo=";s:6:"sha256";s:44:"aUv4/NeB10wiv6adJQLU8JbBS08/iJAYdyZkvig+2zI=";s:6:"sha256";s:44:"C21j6AymNjF3gjp5j+WJU/5ejK/8d0/LXjtQxr+yaoM=";s:6:"sha256";s:44:"nB2k/dEwu4plRT8YvxJObY0PPm6Kk09NaYMGFcGiUh4=";s:6:"sha256";s:44:"qhgA0Rv6CJf7SalNZveRZgmP+CPZsrO/RnwYsNwwIlw=";s:6:"sha256";s:44:"fVH7LLuEbRpZ9J5utcorMj4h4JLIx2trP4ovaUco+Io=";s:6:"sha256";s:44:"zYtYo57lqx6/Ts5zYlzyl+JDAt+yfKT/dUaX8ktk298=";s:6:"sha256";s:44:"LDViJHL2PPW7rW5EHIF27/BS29h229qba9QQUKtD62k=";s:6:"sha256";s:44:"W3J37v93yZTAKEVxW1nKPwwGr0i7yGWIVi6ivAcmyEo=";s:6:"sha256";s:44:"bu6qQ4QGes3U5NBXOcIbmV6k5DjInM1lIrmKkqWwwl8=";s:6:"sha256";s:44:"z0pd2CFwDtFI2NPmFjAecQ64l1AiQS9uxFUGdCCnQr8=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:8:{s:44:"m+6CBjoAnNKYEfzeU2Z/gdvHCtS6rtrjgrv+x87TtlU=";s:6:"sha256";s:44:"5Ea+llpbasJP+VLSdqaaZzRNv99H7BlfV9bd9KzFFfw=";s:6:"sha256";s:44:"9HrfFcz210xdEiRJFIaqbVUapwPJE+owxIQWahvVjsA=";s:6:"sha256";s:44:"WeC5KVw0trB8e4QrPMw6DBGOiG+K5TX3Op28uVZm2UE=";s:6:"sha256";s:44:"nUWHnc2oW55oURrgLQDZ0ZiwMDiwb9jei/20xaGg9NU=";s:6:"sha256";s:44:"KMs5u9oGNYArLo/EWv8p33vOLIl4IGkzmdLVlzon0nQ=";s:6:"sha256";s:44:"hAWDnqfhhih7Z8IHuLnuu/M0fptPPeG9TRauCBmLR6E=";s:6:"sha256";s:44:"X66HjzKi1C9q93Jh1h1c3UFdBmCdVGynvrkDrzG5VBU=";s:6:"sha256";}}}s:4:"html";s:507:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1332" data-price-box="product-id-1332"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-1332"                data-price-amount="32"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$32.00</span></span>
+        </span>
+</span>
+
+
+</div>";}

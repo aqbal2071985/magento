@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/vendor/magento/module-review/view/frontend/web/js/process-reviews.js

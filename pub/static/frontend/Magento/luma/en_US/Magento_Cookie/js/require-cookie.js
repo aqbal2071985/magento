@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/vendor/magento/module-cookie/view/frontend/web/js/require-cookie.js

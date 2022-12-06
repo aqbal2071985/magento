@@ -1,0 +1,1 @@
+C:/xampp/htdocs/magento3/vendor/klarna/module-onsitemessaging/view/frontend/web/js/pricebox-widget-mixin.js
